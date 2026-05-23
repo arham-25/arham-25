@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Abir and I am a CSE undergrad student passionate about AI and its implementations. Also passionate about IoT,Automations and Embedded systems
+I am Abir, an aspiring Computer engineering student passionate about AI and its implementations,IoT,Automations,Embedded systems and Robotics
 <!--
 **arham-25/arham-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
